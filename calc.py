@@ -9,4 +9,8 @@ def divide(x,y):
 def square(x,y):
 	pass
 def multiply(x,y):
-    return x*y
+    return x*x
+def Hanmant(name):
+    return name
+def Shinde(surname):
+    return surname
